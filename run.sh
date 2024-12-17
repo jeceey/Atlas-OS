@@ -1,0 +1,1 @@
+qemu-system-i386 -fda build/atlas_floppy.img
